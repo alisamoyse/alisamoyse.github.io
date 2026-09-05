@@ -325,15 +325,6 @@ main {
   line-height: 1;
 }
 
-.section-number {
-  color: var(--gray);
-
-  font-family: "Space Grotesk", sans-serif;
-
-  margin-top: 0.35rem;
-}
-
-
 /* =========================================================
    PROJECTS
 ========================================================= */
